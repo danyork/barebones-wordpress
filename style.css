@@ -1,0 +1,25 @@
+/*
+Theme Name: Bare Bones Basic Theme
+Theme URI: 
+Description: A very basic theme for experimentation and learning
+Author: Dan York
+Author URI: http://danyork.com/
+Version: 1.0
+
+License:  GPL
+
+A very barebones theme purely for me to learn about WordPress Themes
+*/
+
+
+body { 
+    background:#ff9933;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #222;
+    text-align:center;
+    margin-top:100px;
+}
+
+h2 {
+    font-size: 40pt;
+}
